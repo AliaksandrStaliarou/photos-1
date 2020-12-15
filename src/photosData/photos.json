@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "IMG1234",
+    "image": "./imgs/1small.jpg",
+    "bigImage": "./imgs/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "IMG1235",
+    "image": "./imgs/2small.jpg",
+    "bigImage": "./imgs/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "IMG1237",
+    "image": "./imgs/3small.jpg",
+    "bigImage": "./imgs/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "IMG1238",
+    "image": "./imgs/4small.jpg",
+    "bigImage": "./imgs/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "IMG1244",
+    "image": "./imgs/5small.jpg",
+    "bigImage": "./imgs/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "IMG1245",
+    "image": "./imgs/6small.jpg",
+    "bigImage": "./imgs/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "IMG1251",
+    "image": "./imgs/7small.jpg",
+    "bigImage": "./imgs/7.jpg"
+  }
+]
