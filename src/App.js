@@ -35,9 +35,6 @@ class App extends Component {
                     onClose={this.closePreview.bind(this)}/>}
                 <div className="wrapper">
                     {photosList}
-                    {/*{this.state.previewData && <Preview
-                        data={this.state.previewData}
-                        onClose={this.closePreview.bind(this)}/>}*/}
                 </div>
             </React.Fragment>
         );
